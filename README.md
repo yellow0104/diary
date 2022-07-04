@@ -1,0 +1,2 @@
+# diary
+today_diary
